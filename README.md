@@ -11,3 +11,9 @@
 [lab-4: Midpoint ellipse drawing algorithm](lab-4/)
 
 [lab-5: 2D transformations (translation, reflection, rotation)](lab-5/)
+
+[lab-6: More on 2D transformations (scaling, shearing)](lab-6/)
+
+[project: Perspective projection](project/)
+
+`1/29/2023`
